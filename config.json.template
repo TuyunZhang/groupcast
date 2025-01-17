@@ -1,0 +1,18 @@
+{
+  "bot交流共享群组": {
+    "group_name_keywords": [
+      "bot交流",
+      "大模型"
+    ],
+    "enable": true
+  },
+  "测试共享群组": {
+    "group_name_keywords": [
+      "测试",
+      "测试群"
+    ],
+    "enable": true
+  },
+  "sync_interval": 3,
+  "ignore_at_bot_msg": true
+}
