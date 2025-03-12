@@ -25,12 +25,14 @@ config.json 配置示例：
       "bot交流",
       "大模型"
     ],
-    "enable": true              # 是否启用该共享群组
+    "enable": false              # 是否启用该共享群组
   },
   "测试共享群组": {
     "group_name_keywords": [
-      "测试",
-      "测试群"
+      "测试群1",
+      "测试群6",
+      "测试群4",
+      "测试群5",
     ],
     "enable": true
   },
